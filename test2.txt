@@ -1,4 +1,4 @@
-godbye
+Good morning (from branch add-feature5)
 some
 line from user2
 another line from user2
