@@ -1,4 +1,4 @@
-godbye
+good evening (from branch master)
 some
 line from user2
 another line from user2
