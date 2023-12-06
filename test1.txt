@@ -3,3 +3,4 @@ hello!
 line from user2
 line frome user1
 line frome user1
+some new feature
